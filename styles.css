@@ -8,7 +8,15 @@
 
 p {
  font-family: 'Pragmatica ExtraLight Reg';
- padding-left: 45%;
- padding-top: 24%;
+ /*margin: 360px 640px; */
+ position: relative, center;
+ background-color:
+}
+
+center {
+ font-family: 'Pragmatica ExtraLight Reg';
+ margin: 100px 200px;
+ background-color: ;
+
 
 }
